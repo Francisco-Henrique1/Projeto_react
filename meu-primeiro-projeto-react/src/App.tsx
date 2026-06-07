@@ -20,6 +20,10 @@ function App() {
         <h4>
           Corrida, caminhada, treino calistenia, músculação, ler livros, assistir filmes e series
         </h4>
+
+        <p>Estilos musicais</p>
+
+        <h5>Sertanejo, forro, louvor</h5>
     </div>
 
   )
